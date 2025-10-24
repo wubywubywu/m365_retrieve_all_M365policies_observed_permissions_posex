@@ -4,20 +4,20 @@ import time
 from datetime import datetime
 import sys
 
-# Created by Rosie the TAM Assistant to fulfill customer request for all
+# Created by Christopher Wu with assistance by Rosie the TAM Assistant to fulfill customer request for all
 # observed permissions/settings grouped by policy.
 # 2025 AppOmni Inc.
 
 # ====== EDIT THESE VALUES ======
-# Your AppOmni tenant domain prefix (e.g., 'fanniemae' from fanniemae.appomni.com)
-appomni_instance = 'fanniemae'
+# Your AppOmni tenant domain prefix (e.g., 'bdemo' from bdemo.appomni.com)
+appomni_instance = 'xxxxxxxxxxxxxxxxx'
 # Your active AppOmni session token. Must be FRESH!
 # !!! ACTION REQUIRED: UPDATE THIS TOKEN WITH A FRESH ONE !!!
-session_token = 'd9ngw9fhsfhzmudlllzgtgd2qrv279k7'
+session_token = 'xxxxxxxxxxxxxxxxx'
 # The type of monitored service
 ms_service = 'o365'
 # The specific Monitored Service ID for your M365 instance
-ms_id = '36779'
+ms_id = 'xxxxxxxxxxxxxxxxx'
 # ====== DO NOT EDIT BELOW THIS LINE ======
 
 BASE_URL = f'https://{appomni_instance}.appomni.com'
