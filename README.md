@@ -1,4 +1,4 @@
-# **M365 Policy Settings Exporter (m365\_full\_policy\_settings\_export.py)**
+# **M365 Policy Settings Exporter (m365\_retrieve\_all\_policies\_observed_permissions\_posex.py)**
 
 ## **📄 Overview**
 
